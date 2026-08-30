@@ -223,13 +223,13 @@ This project was created to practice Python programming concepts by building a r
 * Menu-driven CLI applications
 
 ---
+<footer align="center">
 
-<div align="center">
+**© 2026 Dhrubo Dey • CY01-Hub**
 
-### 🐍 Built with Python
+**Online Payment System** — Designed to simplify digital payments with a structured, reliable and user-friendly transaction experience.
 
-**Register. Top Up. Transfer. Track.**
+`BUILD → UNDERSTAND → IMPROVE`
 
-⭐ If you found the project useful, consider giving the repository a star!
+</footer>
 
-</div>
